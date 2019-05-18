@@ -14,7 +14,7 @@ Ce depot contient essentiellement trois version:
 ![image](https://user-images.githubusercontent.com/37142461/57968804-ce81a380-795e-11e9-8559-2691b3bb294a.png)
 
 <h5>Second Version</h5>La deuxieme version permet de faire en plus de la capture et l'enregistrement, elle utilise les filtres.
-![image](https://user-images.githubusercontent.com/37142461/57968879-02a99400-7960-11e9-8d2c-2d8a992f895e.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/37142461/57968886-308ed880-7960-11e9-8970-36fde6f7f851.png)
@@ -27,6 +27,8 @@ Ce depot contient essentiellement trois version:
 
 Pour finir avec la troisieme version qui est la derniere, elle englobe les deux version
 et permet à l'utilisateur de rogner sa photo.
+![image](https://user-images.githubusercontent.com/37142461/57969194-f0c9f000-7963-11e9-9726-b1c91b7055af.png)
+![image](https://user-images.githubusercontent.com/37142461/57969214-28d13300-7964-11e9-9056-e74d38aeb66f.png)
 
 
 
